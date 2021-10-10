@@ -9,7 +9,7 @@ This repository holds all of my personal projects that I've done over the years.
       - Data Science
       - Scripts
       - Software Development
-2. [Education Research](https://github.com/FernandoOCC/PersonalProjects/tree/master/Education%20Research)
+2. [Educational Research](https://github.com/FernandoOCC/PersonalProjects/tree/master/Educational%20Research)
 3. [Tableau Visualizations](https://github.com/FernandoOCC/PersonalProjects/tree/master/Tableau%20Visualizations)
 
 Each category has their own variety of projects and should be accompanied by some form of documentation. 
