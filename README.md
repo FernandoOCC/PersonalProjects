@@ -2,7 +2,7 @@
 
 ## Index
 
-This repository holds all of my personal projects that I've done over the years. Currently they're binned in three different categories
+This repository holds all of my personal projects that I've done over the years. Currently they're binned in three different categories:
 
 1. [Personal Programming Projects](https://github.com/FernandoOCC/PersonalProjects/tree/master/Personal%20Programming%20Projects)
     - [Python](https://github.com/FernandoOCC/PersonalProjects/tree/master/Personal%20Programming%20Projects/Python)
