@@ -4,13 +4,13 @@
 
 This repository holds all of my personal projects that I've done over the years. Currently they're binned in three different categories
 
-1. [Personal Programming Projects](https://github.com/darwin-a/PersonalProjects/tree/master/Personal%20Programming%20Projects)
-    - [Python](https://github.com/darwin-a/PersonalProjects/tree/master/Personal%20Programming%20Projects/Python)
+1. [Personal Programming Projects](https://github.com/FernandoOCC/PersonalProjects/tree/master/Personal%20Programming%20Projects)
+    - [Python](https://github.com/FernandoOCC/PersonalProjects/tree/master/Personal%20Programming%20Projects/Python)
       - Data Science
       - Scripts
       - Software Development
-2. [CPP Education Research](https://github.com/darwin-a/PersonalProjects/tree/master/Physics%20Education%20Research)
-3. [Public Tableau Visualizations](https://github.com/darwin-a/PersonalProjects/tree/master/Tableau%20Public%20Visualizations)
+2. [CPP Education Research](https://github.com/FernandoOCC/PersonalProjects/tree/master/Physics%20Education%20Research)
+3. [Public Tableau Visualizations](https://github.com/FernandoOCC/PersonalProjects/tree/master/Tableau%20Public%20Visualizations)
 
 Each category has their own variety of projects and should be accompanied by some form of documentation. 
 
@@ -28,5 +28,5 @@ My name is Fernando Ortiz-Canavate and welcome to my Project Portfolio! A little
 
 | Contact Method |  |
 | --- | --- |
-| Email | fortizcana2@gmail.com |
+| Email | f.ortizcana2@gmail.com |
 | LinkedIn | https://www.linkedin.com/in/fernando-ortiz-canavate/ |
