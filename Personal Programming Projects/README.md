@@ -8,10 +8,10 @@ Since I began programming, Python has been my most trusted tool for creating sta
 
 ## Data Science
 [<h3 align = "left">Project: Madrid House Price Prediction</h3>](https://github.com/FernandoOCC/PersonalProjects/tree/main/Personal%20Programming%20Projects/Madrid%20House%20Price%20Prediction)
-<h4 align=center> Mortality Predictions </h4>
+<h4 align=center> Price Predictions </h4>
 
 ![](https://raw.githubusercontent.com/FernandoOCC/PersonalProjects/master/Personal%20Programming%20Projects/Python/Data%20Science/eICU/Project%201/graphs/MORT.png)
-**Mortality model prediction metric scores.** Classification models are matched up against APACHE IV / APACHE IVa predictions. Classification models were cross-validated 1000 times. We report the mean metric score and the standard deviation over all 1000 iterations. \*Note that standard deviation scores are not available for the APACHE prediction models.
+**Mortality model prediction metric scores.** The rapid urban growth in Madrid growth in the city of Madrid has lead to a mismatch between the physical characteristics of the city's homes and the expectations of its citizens.
 #### Project At A Glance
 - The APACHE (Acute Physiological And Chronic Health Evaluation) IV/IVa is a tool used to risk-adjust ICU patients for ICU performance benchmarking and quality improvement analysis but it was last improved in 2006. Can we create prediction models that beat these tasks?
 - Project Tools: **Python** (libraries: Altair, sklearn, numpy, pandas, psycopg2), **PostgreSQL**.
