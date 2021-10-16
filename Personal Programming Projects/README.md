@@ -7,7 +7,7 @@ Since I began programming, Python has been my most trusted tool for creating sta
 # Project Examples
 
 ## Data Science
-[<h3 align = "left">Project: Madrid House Price Prediction</h3>](https://github.com/FernandoOCC/PersonalProjects/tree/master/Personal%20Programming%20Projects/Madrid%20House%20%Price%20Prediction)
+[<h3 align = "left">Project: Madrid House Price Prediction</h3>](https://github.com/FernandoOCC/PersonalProjects/tree/master/Personal%20Programming%20Projects/Madrid%20House%20%Price%20Prediction/README.md)
 <h4 align=center> Mortality Predictions </h4>
 
 ![](https://raw.githubusercontent.com/FernandoOCC/PersonalProjects/master/Personal%20Programming%20Projects/Python/Data%20Science/eICU/Project%201/graphs/MORT.png)
