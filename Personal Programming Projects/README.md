@@ -2,9 +2,7 @@
 
 ## Introduction
 
-Python was the first programming language I ever learned. At first I used it for simulating physical phenomena but I transitioned into using
-Python as a data analysis tool when I became a Physics Education Researcher. Since then I've worked on numerous personal projects in different kinds of work.
-This repository holds some of the work that I have completed. 
+Since I began programming, Python has been my most trusted tool for creating statistical models. This personal preference is more due to the ease of use and understandability than due to the wide range of applications that it can be used for. In this section I will summarise some of my favourite projects I have worked on so far. 
 
 # Project Examples
 
