@@ -11,7 +11,7 @@ Since I began programming, Python has been my most trusted tool for creating sta
 <h4 align=center> Price Predictions </h4>
 
 ![](https://raw.githubusercontent.com/FernandoOCC/PersonalProjects/master/Personal%20Programming%20Projects/Python/Data%20Science/eICU/Project%201/graphs/MORT.png)
-**Mortality model prediction metric scores.** The rapid urban growth in Madrid growth in the city of Madrid has lead to a mismatch between the physical characteristics of the city's homes and the expectations of its citizens.
+**House Prices as a measure of Consumer Preferences.** The rapid urban growth in Madrid growth in the city of Madrid has lead to a mismatch between the physical characteristics of the city's homes and the expectations of its citizens. This project seeks to use the house prices of more than 19,000 homes advertised in real-estate websites to determine if the ratio of bedrooms to home size (in M2) is a significant determinant in purchasing decisions. This variable was chosen due to the recent decreases in the number of persons living each household, which might change the preferred number of bedrooms per home.
 #### Project At A Glance
 - The APACHE (Acute Physiological And Chronic Health Evaluation) IV/IVa is a tool used to risk-adjust ICU patients for ICU performance benchmarking and quality improvement analysis but it was last improved in 2006. Can we create prediction models that beat these tasks?
 - Project Tools: **Python** (libraries: Altair, sklearn, numpy, pandas, psycopg2), **PostgreSQL**.
